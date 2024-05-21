@@ -1,0 +1,58 @@
+Program starting. Indecies start at 1 for clarity.
+Data file #1 saved to local.
+Data file #2 saved to local.
+Data file #3 saved to local.
+Data file #4 saved to local.
+Data file #5 saved to local.
+Data file #6 saved to local.
+Data file #7 saved to local.
+Data file #8 saved to local.
+Data file #9 saved to local.
+Data file #10 saved to local.
+Data file #11 saved to local.
+Data file #12 saved to local.
+Data file #13 saved to local.
+Data file #14 saved to local.
+Data file #15 saved to local.
+Data file #16 saved to local.
+Data file #17 saved to local.
+Data file #18 saved to local.
+Data file #19 saved to local.
+Data file #20 saved to local.
+Data file #21 saved to local.
+Data file #22 saved to local.
+Data file #23 saved to local.
+Data file #24 saved to local.
+Data file #25 saved to local.
+Data file #26 saved to local.
+Data file #27 saved to local.
+Data file #28 saved to local.
+Data file #29 saved to local.
+Data file #30 saved to local.
+Data file #31 saved to local.
+Data file #32 saved to local.
+Data file #33 saved to local.
+Data file #34 saved to local.
+Data file #35 saved to local.
+Data file #36 saved to local.
+502 error encountered for URL at index #9224.
+Data file #37 saved to local.
+Data file #38 saved to local.
+Data file #39 saved to local.
+Data file #40 saved to local.
+Data file #41 saved to local.
+Data file #42 saved to local.
+Data file #43 saved to local.
+Data file #44 saved to local.
+Data file #45 saved to local.
+Data file #46 saved to local.
+Data file #47 saved to local.
+Data file #48 saved to local.
+Data file #49 saved to local.
+Data file #50 saved to local.
+Data file #51 saved to local.
+Data file #52 saved to local.
+Data file #53 saved to local.
+
+========
+Data for URL #9224 manually inserted into data file #53. 
